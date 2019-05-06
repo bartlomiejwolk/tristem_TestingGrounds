@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.12",
+	"EngineAssociation": "4.21",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -8,28 +8,6 @@
 			"Name": "trist_TestingGrounds",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
-		}
-	],
-	"Plugins": [
-		{
-			"Name": "GearVR",
-			"Enabled": false
-		},
-		{
-			"Name": "OculusInput",
-			"Enabled": false
-		},
-		{
-			"Name": "OculusLibrary",
-			"Enabled": false
-		},
-		{
-			"Name": "OculusRift",
-			"Enabled": false
-		},
-		{
-			"Name": "SteamVR",
-			"Enabled": false
 		}
 	]
 }
