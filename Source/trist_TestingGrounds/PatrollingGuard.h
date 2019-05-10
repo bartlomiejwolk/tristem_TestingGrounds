@@ -14,6 +14,7 @@ class TRIST_TESTINGGROUNDS_API APatrollingGuard : public ATP_ThirdPersonCharacte
 {
 	GENERATED_BODY()
 
+public:
 	UPROPERTY(EditInstanceOnly, Category = "Patrol Route")
 	TArray<AActor*> PatrolPoints;
 };
