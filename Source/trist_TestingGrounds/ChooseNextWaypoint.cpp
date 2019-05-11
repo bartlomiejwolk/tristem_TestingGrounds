@@ -5,9 +5,6 @@
 #include "AIController.h"
 #include "PatrolRoute.h"
 
-// TODO remove
-#include "PatrollingGuard.h"
-
 EBTNodeResult::Type UChooseNextWaypoint::ExecuteTask(UBehaviorTreeComponent& OwnerComp, uint8* NodeMemory)
 {
 	UBlackboardComponent* BlackboardComp = OwnerComp.GetBlackboardComponent();
