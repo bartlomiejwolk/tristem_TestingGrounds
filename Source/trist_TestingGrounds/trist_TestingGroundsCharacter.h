@@ -9,7 +9,7 @@
 class UInputComponent;
 
 UCLASS(config=Game)
-class Atrist_TestingGroundsCharacter : public ACharacter
+class AFirstPersonCharacter : public ACharacter
 {
 	GENERATED_BODY()
 
@@ -46,7 +46,7 @@ class Atrist_TestingGroundsCharacter : public ACharacter
 	class UMotionControllerComponent* L_MotionController;
 
 public:
-	Atrist_TestingGroundsCharacter();
+	AFirstPersonCharacter();
 
 protected:
 	virtual void BeginPlay();
