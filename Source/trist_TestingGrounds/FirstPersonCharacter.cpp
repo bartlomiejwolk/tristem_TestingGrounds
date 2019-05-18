@@ -1,6 +1,6 @@
 // Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
 
-#include "trist_TestingGroundsCharacter.h"
+#include "FirstPersonCharacter.h"
 #include "trist_TestingGroundsProjectile.h"
 #include "Animation/AnimInstance.h"
 #include "Camera/CameraComponent.h"

@@ -2,7 +2,7 @@
 
 #include "trist_TestingGroundsGameMode.h"
 #include "trist_TestingGroundsHUD.h"
-#include "trist_TestingGroundsCharacter.h"
+#include "FirstPersonCharacter.h"
 #include "UObject/ConstructorHelpers.h"
 
 Atrist_TestingGroundsGameMode::Atrist_TestingGroundsGameMode()
